@@ -1,0 +1,34 @@
+# COMANDOS UTILIZADOS NO GIT
+
+## No windows:
+
+- dir - Mostra todas as pastas no diretório que esta citado no CMD
+- cd (chance directory) - entra em uma pasta especifica no Sistema Operacional
+- cd .. - Volta na pasta anterior
+- cls - Limpa o CMD
+- mkdir workspace - Cria uma pasta pelo CMD
+- echo hello - Ele envia a mesma mensagem que você citou na hora de executar o comando
+- echo hello > hello.txt - Cria um arquivo com o nome solicitado
+- del (nome da pasta) = Deleta o arquivo que está dentro da pasta solicitada
+- rmdir (pasta) /S /Q - Apaga a pasta solicitada 
+- ls -a - Mostra as pastas ocultas na pasta selecionada
+- git config --global user.email "email do usuário": O git pede configurações quando é a primeira vez usando
+- git config --global user.name "usuário": O git pede configurações quando é a primeira vez usando
+- git init - Ele cria um repositório na pasta oculta do git
+- git status - Mostra os status do repositório
+- git config --list - Traz as configurações do Git
+- git config --global --unset user.email - Altera as configurações
+- git remote add origin (link github) - Adiciona repositório na maquina local
+
+
+
+## No Linux:
+- ls - Mostra todas as pastas no diretório que esta citado no Terminal
+- cd (chance directory) - entra em uma pasta especifica no Sistema Operacional
+- cd .. - Volta na pasta anterior
+- clear - Limpa o Terminal
+- mkdir workspace - Cria uma pasta pelo CMD
+- echo hello - Ele envia a mesma mensagem que você citou na hora de executar o comando
+- echo hello > hello.txt - Cria um arquivo com o nome solicitado
+- rm -rf (pasta) - rmdir (pasta) /S /Q - Apaga a pasta solicitada 
+
